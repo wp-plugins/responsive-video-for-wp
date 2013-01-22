@@ -1,5 +1,5 @@
 === Responsive Video for WordPress ===
-Contributors: Dustin Lammiman
+Contributors: nosecreek
 Donate link: http://blog.nosecreekweb.ca/
 Tags: video, embed, responsive, YouTube, Vimeo, responsive video
 Requires at least: 2.9
